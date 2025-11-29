@@ -14,6 +14,6 @@
 - Mini Calculator – C ile yaptığım mini hesap makinesi.  
 
 ## 📫 Bana Ulaş
-🔗 [LinkedIn]: https://www.linkedin.com/feed/update/urn:li:activity:7400559524492763137/
-📧 Email: kadrylmaz44@gmail.com
+- 🔗 [LinkedIn]: https://www.linkedin.com/feed/update/urn:li:activity:7400559524492763137/
+- 📧 Email: kadrylmaz44@gmail.com
 
