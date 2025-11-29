@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Merhaba, ben Murat Kadir Yılmaz
 
-<!--
-**muratkadiryilmaz/muratkadiryilmaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Bilgisayar Mühendisliği öğrencisiyim.  
+💻 C öğreniyorum, algoritmalar ve veri yapılarıyla ilgileniyorum.  
+🌱 GitHub’ımı projelerle geliştirmeye çalışıyorum.  
 
-Here are some ideas to get you started:
+## 🛠️ Yetenekler
+- C  
+- Veri yapıları & algoritmalar  
+- Konsol uygulamaları  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projeler
+- Random Number Guessing Game – C ile yaptığım sayı tahmin oyunu.  
+- Mini Calculator – C ile yaptığım mini hesap makinesi.  
+
+## 📫 Bana Ulaş
+🔗 [LinkedIn](https://www.linkedin.com/in/muratkadiryilmaz/)  
+📧 Email: kadrylmaz44@gmail.com
+
