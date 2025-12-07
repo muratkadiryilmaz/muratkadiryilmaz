@@ -11,7 +11,8 @@
 
 ## 📂 Projeler
 - Random Number Guessing Game – C ile yaptığım sayı tahmin oyunu.  
-- Mini Calculator – C ile yaptığım mini hesap makinesi.  
+- Mini Calculator – C ile yaptığım mini hesap makinesi.
+- 12 Month Revenue Chart - C ile yaptığım yatay ve dikey ASCII ciro grafiği
 
 ## 📫 Bana Ulaş
 - 🔗 [LinkedIn]: https://www.linkedin.com/in/murat-kadir-y%C4%B1lmaz-148b8b387/
